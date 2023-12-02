@@ -1,3 +1,3 @@
-const cherry ={
-    
+const cherry = {
+    name: 'Vijay'
 }
