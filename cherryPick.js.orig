@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+const cherry = {
+    name: 'Vijay'
+}
+=======
+ECHO is on.
+>>>>>>> 9c151fb (New file named cherry pick)
