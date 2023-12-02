@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+const cherry = {
+    name: 'Vijay'
+}
+=======
+const cherry ={
+    
+}
+>>>>>>> parent of b31aa75 (inserted name)
